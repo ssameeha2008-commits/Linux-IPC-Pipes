@@ -52,7 +52,6 @@ client(p1[1],p2[0]);
 wait(waits); 
 return 0; 
 } 
-
 void server(int rfd,int wfd) 
 { 
 int i,j,n; 
